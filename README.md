@@ -56,3 +56,31 @@ This project is a modification of the Landon Hotel scheduling application. The a
 - **Angular CLI**
 - **Maven**
 - **Docker**
+
+### Installation
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/david-delgado17/Multithreaded-Language-Translation.git
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd d387-advanced-java
+3. **Install Dependencies:**
+   ```bash
+   mvn install
+4. **Run the Application:**
+    ```bash
+    mvn spring-boot:run
+
+    ### Running with Docker
+1. **Build the Docker Image:**
+   ```bash
+   docker build -t landon-hotel-app .
+2. **Run the Docker Container:**
+  ```bash
+  docker run -d -p 8080:8080 --name landon-hotel-app-container landon-hotel-app
+  ```
+## Deployment
+To deploy this application to a cloud service:
+1. **Select a Cloud Provider:** AWS, Google Cloud, or Azure.
+2. **Push the Docker Image:** Push the Docker image to a container registry (e.g., Docker Hub, AWS ECR).
+3. **Deploy to Cloud:** Use the cloud provider's container services (e.g., AWS ECS, Google Kubernetes Engine) to deploy the application.
