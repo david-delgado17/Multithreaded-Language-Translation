@@ -23,9 +23,7 @@ This project demonstrates skills in full-stack development, internationalization
 4. [Deployment](#deployment)
 5. [Repository Structure](#repository-structure)
 6. [Demo](#demo)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+
 
 ## Project Overview
 
@@ -84,3 +82,6 @@ To deploy this application to a cloud service:
 1. **Select a Cloud Provider:** AWS, Google Cloud, or Azure.
 2. **Push the Docker Image:** Push the Docker image to a container registry (e.g., Docker Hub, AWS ECR).
 3. **Deploy to Cloud:** Use the cloud provider's container services (e.g., AWS ECS, Google Kubernetes Engine) to deploy the application.
+
+## Demo
+
