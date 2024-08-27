@@ -83,5 +83,18 @@ To deploy this application to a cloud service:
 2. **Push the Docker Image:** Push the Docker image to a container registry (e.g., Docker Hub, AWS ECR).
 3. **Deploy to Cloud:** Use the cloud provider's container services (e.g., AWS ECS, Google Kubernetes Engine) to deploy the application.
 
+## Repository Structure
+```bash
+d387-advanced-java/
+├── src/
+│ ├── main/
+│ │ ├── java/edu/wgu/d387_sample_code/ # Java source files
+│ │ ├── resources/ # Configuration and static files
+│ ├── test/ # Test files
+├── Dockerfile # Docker configuration
+├── pom.xml # Maven configuration
+└── README.md # Project documentation
+```
+
 ## Demo
 
