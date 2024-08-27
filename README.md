@@ -98,3 +98,10 @@ d387-advanced-java/
 
 ## Demo
 
+![Container_Running](![Screenshot 2024-07-31 144139](https://github.com/user-attachments/assets/a21aa40e-cb1c-4c70-922e-568bfe727a79)
+)
+![Container_Running2](![Screenshot 2024-07-31 144324](https://github.com/user-attachments/assets/0818e3c8-03ff-4a39-9458-fa6bd334d8d6)
+)
+![Container_Running3](![Screenshot 2024-07-31 144324](https://github.com/user-attachments/assets/8595ada9-9ef7-40e3-8d35-4e2e13b8d061)
+)
+
