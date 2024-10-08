@@ -5,8 +5,7 @@ Multithreaded Language Translation: The application now supports English and Fre
 Currency Display: Prices for reservations are displayed in U.S. dollars (USD), Canadian dollars (CAD), and Euros (EUR).
 Time Zone Conversion: The application converts and displays times across Eastern Time (ET), Mountain Time (MT), and Coordinated Universal Time (UTC) for scheduling live presentations.
 Docker Containerization: The application is packaged into a Docker image, ready for deployment across various cloud environments.
-This project demonstrates skills in full-stack development, internationalization, multithreading, and containerization. It’s a valuable addition to your portfolio, showcasing your ability to adapt and enhance existing applications to meet new business requirements.
-
+This project demonstrates skills in full-stack development, internationalization, multithreading, and containerization.
 
 ## Table of Contents
 
